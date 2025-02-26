@@ -1,2 +1,1 @@
-# dippindots_admin
-admin panel
+Admin panel
